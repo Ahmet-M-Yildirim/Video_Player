@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\ahmet\IdeaProjects\TutorialFX\out\artifacts\TutorialFX_jar\TutorialFX.jar</jar>
+  <outfile>C:\Users\ahmet\OneDrive\Masaüstü\MediaPlayer.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\ahmet\OneDrive\Masaüstü\windows-media-player.ico</icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk-17</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>true</requires64Bit>
+    <minVersion>1.8.0_111</minVersion>
+    <maxVersion>1.9.0</maxVersion>
+  </jre>
+</launch4jConfig>
